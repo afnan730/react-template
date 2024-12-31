@@ -14,12 +14,12 @@ const App = () => {
     <Router>
       <div className="app-container">
         <div className="main-content">
-          {/* Define Routes */}
+         
           <Routes>
             <Route path="/" element={<HomePage />} />
            
             <Route path="/login" element={<LoginPage />} />
-            {/* Add more routes as needed */}
+          
           </Routes>
         </div>
       </div>

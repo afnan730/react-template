@@ -43,8 +43,8 @@ const HeroSection = () => {
         padding: '20px',
         borderRadius: '4px',
       }}>
-        <h1>Welcome to  Eskici </h1>
-        <h2>Second-Hand Marketplace</h2>
+        <h2>Welcome to  Eskici </h2>
+        <h3>Second-Hand Marketplace</h3>
         <SearchBar />
       </div>
     </div>
